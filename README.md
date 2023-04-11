@@ -33,7 +33,7 @@ Let's make sure we are printing our age.
 
 *You cannot use an uninitialized variable in JAVA. If you remove the line assigning a value to "age" and run the code you will recieve an error stating "The local variable age may not have been initialized".*  
 
-![Uninitialized variable](https://i.imgur.com/Xrxt88J.png)
+![Uninitialized variable](https://i.imgur.com/Xrxt88J.png)  
 ![Error Message](https://i.imgur.com/hHpjjpq.png)  
 
 To avoid this you can both declare and initialize a variable on the same line.   
