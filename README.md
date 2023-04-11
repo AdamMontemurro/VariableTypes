@@ -1,4 +1,4 @@
-# VariableTypes
+# Variables
 
 When naming variables in Java it is a common practice to use camel casing. 
 
