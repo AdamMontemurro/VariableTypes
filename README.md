@@ -29,7 +29,7 @@ Next, we have to declare an integer that we will call "age". Give our variable a
 
 Let's make sure we are printing our age.  
 
-![Print our age](https://i.imgur.com/i6A5VhZ.png)  
+![Print our age](https://i.imgur.com/m4iOezU.png)  
 
 *You cannot use an uninitialized variable in JAVA. If you remove the line assigning a value to "age" and run the code you will recieve an error stating "The local variable age may not have been initialized".*  
 
