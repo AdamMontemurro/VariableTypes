@@ -15,10 +15,26 @@ Declarations for variables in JAVA start by specifying the variable type.
 
 Let's printout our age in the console.  
 
-First we have to declare an integer that we will call "age". Give our variable a value.   
+First, let's make our class, we will call it HelloWorld for now.  
+
+![Class](https://i.imgur.com/WoTU3wl.png)  
+
+Let's define our main method inside the HelloWorld class.  
+
+![Main Method](https://i.imgur.com/ynstIsq.png)  
+
+Next, we have to declare an integer that we will call "age". Give our variable a value.   
+
 ![Declaring Variable](https://i.imgur.com/zwD1JDY.png)  
 
-You cannot use an uninitialized variable in JAVA. If you remove the line assigning a value to "age" and run the code you will recieve an error stating "The local variable age may not have been initialized".  
+Let's make sure we are printing our age.  
+
+![Print our age](https://i.imgur.com/i6A5VhZ.png)  
+
+*You cannot use an uninitialized variable in JAVA. If you remove the line assigning a value to "age" and run the code you will recieve an error stating "The local variable age may not have been initialized".*  
+
+![Uninitialized variable](https://i.imgur.com/Xrxt88J.png)
+![Error Message](https://i.imgur.com/hHpjjpq.png)  
 
 To avoid this you can both declare and initialize a variable on the same line.   
 
