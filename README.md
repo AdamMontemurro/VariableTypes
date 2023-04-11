@@ -11,8 +11,6 @@ Examples:
 
 You cannot start a variable with a number. For clarity, is good to use full words when naming variables rather than ambigious abbreviations.
 
-Declarations for variables in JAVA start by specifying the variable type.  
-
 Let's printout our age in the console.  
 
 First, let's make our class, we will call it HelloWorld for now.  
@@ -23,7 +21,7 @@ Let's define our main method inside the HelloWorld class.
 
 ![Main Method](https://i.imgur.com/ynstIsq.png)  
 
-Next, we have to declare an integer that we will call "age". Give our variable a value.   
+Next, we have to declare an integer that we will call "age". Give our variable a value. Declarations for variables in JAVA start by specifying the variable type.    
 
 ![Declaring Variable](https://i.imgur.com/zwD1JDY.png)  
 
