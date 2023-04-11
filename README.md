@@ -5,7 +5,7 @@ When naming variables in Java it is a common practice to use camel casing.
 Examples:  
 - variableOne  
 - myAge  
-- camelCasedVariableInteger
+- camelCasedVariableInteger  
 *Remember variables are case sensitive!*
 
 You cannot start a variable with a number. For clarity, is good to use full words when naming variables rather than ambigious abbreviations.
