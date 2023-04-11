@@ -6,6 +6,7 @@ Examples:
 - variableOne  
 - myAge  
 - camelCasedVariableInteger  
+
 *Remember variables are case sensitive!*
 
 You cannot start a variable with a number. For clarity, is good to use full words when naming variables rather than ambigious abbreviations.
@@ -14,12 +15,12 @@ Declarations for variables in JAVA start by specifying the variable type.
 
 Let's printout our age in the console.  
 
-First we have to declare an integer that we will call "age".  
+First we have to declare an integer that we will call "age". Give our variable a value.   
 ![Declaring Variable](https://i.imgur.com/zwD1JDY.png)  
 
 You cannot use an uninitialized variable in JAVA. If you remove the line assigning a value to "age" and run the code you will recieve an error stating "The local variable age may not have been initialized". To avoid this you can both declare and initialize a variable on the same line.   
 
-![An uninitialized variable](https://i.imgur.com/aypbN5R.png)  
+![Initialized and value assigned on the same line](https://i.imgur.com/ZWG3OlN.png)  
 
 You can reasign the value of a variable multiple times. JAVA will use the latest value declaration.  
 
