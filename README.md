@@ -47,7 +47,7 @@ The console will print out "I am 31 years old."
 Keep in mind that you cannot declare the same variable twice.  
 ![Variable Declared Twice](https://i.imgur.com/71mfdS4.png)  
 
-You may have noticed there are two set's of curly braces. Code inside a set of curly braces is a "code block".  
+You may have noticed there are two sets of curly braces. Code inside a set of curly braces is a "code block".  
 ![Code Block](https://i.imgur.com/r8thk3Q.png)  
 
 The first set belongs to the HelloWorld Class. They mark the start and the end of the class. The second set marks the start and end of the "main" method. If you notice the main method is contained within the HelloWorld class code block. This means any variable inside the method is a local variable, or only available inside the method.  
